@@ -1,0 +1,13 @@
+{
+  "name": "web-food-promotion-master",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ร้านอาหารตามสั่ง static website served by Node.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
